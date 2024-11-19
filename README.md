@@ -11,7 +11,11 @@
 - 📫 Reach me at [contact@aamirazeez.com](mailto:contact@aamirazeez.com)
 - 📄 Find my resume at [aamirazeez.com/resume](https://aamirazeez.com/resume)
 <p align="center">
-<img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-azeez&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-azeez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-azeez&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img alt="fallback" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamir-azeez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</picture>
 </p>
 <h2 align="center">Pinned Repos</h2>
 <h3 align="left">DiffAbled</h3>
