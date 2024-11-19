@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://aamirazeez.com/">
-    <img alt="Logo" src="logo-outline.svg" width="100" />
+    <img alt="Logo" src="logo-outline.svg" width="100"/>
+  </a>
 <h1 align="center">Hi 👋, I'm Aamir</h1>
 </p>
    
