@@ -19,7 +19,7 @@
 </p>
 <h2 align="center">Pinned Repos</h2>
 <h3 align="left">DiffAbled</h3>
-<h4 align="left">An app that allows the blind to learn braille independently</h4>
+<h4 align="left">An app that allows blind people to learn braille independently</h4>
 <a href="https://github.com/aamir-azeez/diffabled">
 <img align="left" height="175" src="https://github.com/user-attachments/assets/d958578a-37ed-469c-b30b-4b237dbd65f9">
 </a>
