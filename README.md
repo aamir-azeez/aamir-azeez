@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Aamir</h1>
 </p>
    
-- 🔭 I’m currently working on [Slatefront](https://github.com/HishaamA/slatefront)
+- 🔭 I’m currently working on [Slatefront](https://github.com/aamir-azeez/slatefront)
 - 💡 Most of my projects can be found on [aamirazeez.com](https://aamirazeez.com/)
 - 📝 I write about my projects on [aamirazeez.com/stories](https://aamirazeez.com/stories)
 - 📫 Reach me at [contact@aamirazeez.com](mailto:contact@aamirazeez.com)
